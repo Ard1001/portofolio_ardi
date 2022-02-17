@@ -190,6 +190,11 @@ ul li{
         margin-top: 100px;
     }
 
+    .hero-image {
+        display: flex;
+        justify-content: center;
+    }
+
     .hero-text{
         width: 100%;
     }
