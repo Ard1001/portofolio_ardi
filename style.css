@@ -190,13 +190,8 @@ ul li{
         margin-top: 100px;
     }
 
-    .hero-image{
-        display: flex;
-        justify-self: center;
-    }
-
     .hero-text{
-        text-align: center;
+        text-align: 100%;
     }
 
     .post {
